@@ -33,7 +33,7 @@ pip install flask flask-sqlalchemy
 ## Credentials for Admin ##
 * Username:
 ```bash
-  admin@barbel@gmail.com
+admin@barbel@gmail.com
 ```
 * Password:
 ```bash

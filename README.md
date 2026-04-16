@@ -24,3 +24,8 @@ PyCharm will usually ask to create a virtual environment automatically. If not:
 * Type the following command and press Enter:
 ```bash
 pip install flask flask-sqlalchemy
+```
+### 4. Run the Application
+* Locate the app.py file in the project sidebar.
+* Right-click app.py and select Run 'app'.
+* Look for the link in the output console (usually http://127.0.0.1:5000) and click it to open the system in your browser.

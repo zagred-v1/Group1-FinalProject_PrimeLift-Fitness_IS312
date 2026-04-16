@@ -29,3 +29,7 @@ pip install flask flask-sqlalchemy
 * Locate the app.py file in the project sidebar.
 * Right-click app.py and select Run 'app'.
 * Look for the link in the output console (usually http://127.0.0.1:5000) and click it to open the system in your browser.
+
+## Credentials for Admin ##
+* Username: ```admin@barbel@gmail.com```
+* Password: ```admin123```
